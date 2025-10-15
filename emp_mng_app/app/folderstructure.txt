@@ -1,0 +1,14 @@
+app/
+ ┣ core/
+ ┃ ┗ security.py
+ ┣ db/
+ ┃ ┗ session.py
+ ┣ models/
+ ┃ ┗ models.py
+ ┣ schemas/
+ ┃ ┗ schemas.py
+ ┣ routes/
+ ┃ ┗ v1/
+ ┃    ┣ auth.py
+ ┃    ┗ employee.py
+ ┗ main.py
