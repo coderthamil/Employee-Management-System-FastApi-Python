@@ -126,7 +126,7 @@ Make sure to replace the database URL and credentials.
 
 ## Feedback
 
-If you have any feedback, please reach out to us at senthamil15124@gmail.com
+If you have any feedback, please reach out to us at senthamil1512@gmail.com
 
 
 ## 🛠 Skills
